@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JulioCVaz/react-advanced-architecture/issues"
   },
-  "homepage": "https://github.com/JulioCVaz/react-advanced-architecture#readme"
+  "homepage": "https://github.com/JulioCVaz/react-advanced-architecture#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
