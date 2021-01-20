@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/JulioCVaz/react-advanced-architecture#readme",
   "devDependencies": {
-    "git-commit-msg-linter": "^3.0.0"
+    "@types/node": "^14.14.21",
+    "git-commit-msg-linter": "^3.0.0",
+    "typescript": "^4.1.3"
   }
 }
